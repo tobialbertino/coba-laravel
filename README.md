@@ -63,9 +63,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # About this project
 
-auto_awesome
-Menampilkan terjemahan untuk website blog yang saya pelajari dari playlist Web programming unpas
-Terjemahkan selain dari website blog yang saya pelajari dari palylist Web progeamming unpas
-67 / 5000
-Hasil terjemahan
 blog website that I learned from the playlist <a href="https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2">Web Programming Unpas</a>
