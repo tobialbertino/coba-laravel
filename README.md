@@ -64,3 +64,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # About this project
 
 blog website that I learned from the playlist <a href="https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2">Web Programming Unpas</a>
+
+-> website https://blog-laravel8.000webhostapp.com/home
+
+Admin user:
+email: otong@gmail.com
+psswd: password
